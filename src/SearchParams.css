@@ -1,0 +1,4 @@
+.search-params {
+    display: flex;
+    flex-direction: column;
+}
